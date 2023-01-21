@@ -1,0 +1,33 @@
+
+PROBLEM STATEMENT :
+To check if a flower is bisexual or unisexual.
+(Bisexual flowers are both male and female)
+(Unisexual flowers are either male or female)
+
+
+QUERIES [for flower.pl]:
+
+%english statements:
+
+1] Is papaya a unisexual flower?
+2] Is watermelon a bisexual flower?
+3] Is tulip a bisexual flower?
+4] Is lily male?
+5] Is lily female?
+6] Is whitemulberry male?
+7] Is whitemulberry female?
+8] What all flowers are unisexual?
+9] What all flowers are bisexual?
+
+
+
+
+
+
+
+
+
+
+
+
+

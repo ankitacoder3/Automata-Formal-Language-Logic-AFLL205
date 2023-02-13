@@ -1,0 +1,11 @@
+
+
+PROBLEM STATEMENT:
+
+Using JFLAP, construct a PDA, for the language,
+
+   L={ n(a)(w) > n(b)(w) ; where w belongs to {a,b} }.
+
+Also convert the same to CFG, and also parse a string.
+
+	    

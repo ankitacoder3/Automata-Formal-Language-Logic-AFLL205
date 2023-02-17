@@ -7,9 +7,9 @@
 #### This repo contains codes for Automatas and Formal Logic.
 ###
 ## Techstack used here is as follows:
-#### ->Python
-#### ->Prolog
-#### ->JFLAP
+#### -> Python
+#### -> Prolog
+#### -> JFLAP
 ##### -- Kindly ensure that the installation of the same is done.
 ###
  

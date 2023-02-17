@@ -10,7 +10,7 @@
 #### -> Python
 #### -> Prolog
 #### -> JFLAP
-##### -- Kindly ensure that the installation of the same is done.
+##### -< Kindly ensure that the installation of the same is done. >-
 ###
  
 ## Steps for execution:

@@ -18,7 +18,7 @@
   #### 1. Clone the 'Automata-Logic' github repository.
   #### 2. Navigate to the 'Automata_Logic' Directory in that.
   #### 3. Open the individual directories.
-  #### 4.  
+  #### 4. To execute, refer the example below. 
   
   
   ###
